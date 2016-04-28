@@ -58,4 +58,13 @@ Want a taste? Get going in seconds.
 With Azure App Service, this is as easy as selecting a language! 
 
 [Create a new app](http://go.microsoft.com/fwlink/?LinkId=523751) right away for free. No credit card required, no commitments, no hassles.
+
+##Azure Developer Tools
+Use the tools you know and love and start building cloud apps today.
+- [Download the tools](http://azure.com/tools)
+- [Watch this video](https://channel9.msdn.com/Events/Build/2016/P580) 
+
+
+
+
  
